@@ -15,6 +15,12 @@
     <loc>https://filo31410.github.io/testhugo.github.io/page-test/</loc>
     <lastmod>2022-04-08T18:15:58+02:00</lastmod>
   </url><url>
+    <loc>https://filo31410.github.io/testhugo.github.io/plateformes/page-test/</loc>
+    <lastmod>2022-04-08T18:15:58+02:00</lastmod>
+  </url><url>
+    <loc>https://filo31410.github.io/testhugo.github.io/plateformes/</loc>
+    <lastmod>2022-04-08T18:15:58+02:00</lastmod>
+  </url><url>
     <loc>https://filo31410.github.io/testhugo.github.io/blog/syntax/</loc>
     <lastmod>2022-04-08T18:15:58+02:00</lastmod>
   </url><url>
@@ -24,5 +30,7 @@
     <loc>https://filo31410.github.io/testhugo.github.io/bear/</loc>
   </url><url>
     <loc>https://filo31410.github.io/testhugo.github.io/hugo/</loc>
+  </url><url>
+    <loc>https://filo31410.github.io/testhugo.github.io/test/</loc>
   </url>
 </urlset>
