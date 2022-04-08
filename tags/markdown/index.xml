@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Le PonT</title>
-    <link>https://filo31410.github.io/testhugo.github.io/blog/</link>
-    <description>Recent content in Blog on Le PonT</description>
+    <title>markdown on Le PonT</title>
+    <link>https://filo31410.github.io/testhugo.github.io/tags/markdown/</link>
+    <description>Recent content in markdown on Le PonT</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 08 Apr 2022 18:15:58 +0200</lastBuildDate><atom:link href="https://filo31410.github.io/testhugo.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Apr 2022 18:15:58 +0200</lastBuildDate><atom:link href="https://filo31410.github.io/testhugo.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Page Test</title>
       <link>https://filo31410.github.io/testhugo.github.io/blog/page-test/</link>
@@ -13,6 +13,15 @@
       
       <guid>https://filo31410.github.io/testhugo.github.io/blog/page-test/</guid>
       <description>This is a page about »Page Test«.</description>
+    </item>
+    
+    <item>
+      <title>Page Test 2</title>
+      <link>https://filo31410.github.io/testhugo.github.io/plateformes/page-test/</link>
+      <pubDate>Fri, 08 Apr 2022 18:15:58 +0200</pubDate>
+      
+      <guid>https://filo31410.github.io/testhugo.github.io/plateformes/page-test/</guid>
+      <description>This is a page about »Page Test 2«.</description>
     </item>
     
     <item>

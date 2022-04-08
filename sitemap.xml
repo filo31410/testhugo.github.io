@@ -9,10 +9,10 @@
     <loc>https://filo31410.github.io/testhugo.github.io/blog/</loc>
     <lastmod>2022-04-08T18:15:58+02:00</lastmod>
   </url><url>
-    <loc>https://filo31410.github.io/testhugo.github.io/blog/markdown/</loc>
+    <loc>https://filo31410.github.io/testhugo.github.io/tags/markdown/</loc>
     <lastmod>2022-04-08T18:15:58+02:00</lastmod>
   </url><url>
-    <loc>https://filo31410.github.io/testhugo.github.io/page-test/</loc>
+    <loc>https://filo31410.github.io/testhugo.github.io/blog/page-test/</loc>
     <lastmod>2022-04-08T18:15:58+02:00</lastmod>
   </url><url>
     <loc>https://filo31410.github.io/testhugo.github.io/plateformes/page-test/</loc>
@@ -21,13 +21,18 @@
     <loc>https://filo31410.github.io/testhugo.github.io/plateformes/</loc>
     <lastmod>2022-04-08T18:15:58+02:00</lastmod>
   </url><url>
-    <loc>https://filo31410.github.io/testhugo.github.io/blog/syntax/</loc>
+    <loc>https://filo31410.github.io/testhugo.github.io/tags/syntax/</loc>
     <lastmod>2022-04-08T18:15:58+02:00</lastmod>
   </url><url>
-    <loc>https://filo31410.github.io/testhugo.github.io/markdown-syntax-guide/</loc>
+    <loc>https://filo31410.github.io/testhugo.github.io/tags/</loc>
+    <lastmod>2022-04-08T18:15:58+02:00</lastmod>
+  </url><url>
+    <loc>https://filo31410.github.io/testhugo.github.io/blog/markdown-syntax/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://filo31410.github.io/testhugo.github.io/bear/</loc>
+  </url><url>
+    <loc>https://filo31410.github.io/testhugo.github.io/categories/</loc>
   </url><url>
     <loc>https://filo31410.github.io/testhugo.github.io/hugo/</loc>
   </url><url>
