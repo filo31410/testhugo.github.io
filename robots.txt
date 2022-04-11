@@ -1,2 +1,0 @@
-User-Agent: *
-Sitemap: https://filo31410.github.io/testhugo.github.io/sitemap.xml
