@@ -1,74 +1,105 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
+<html><head>
 	<meta name="generator" content="Hugo 0.94.2" />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="/css/dsfr.min.css">
+    <link href="css/core/core.min.css" rel="stylesheet">
+    <link href="css/link/link.min.css" rel="stylesheet">
+    <link href="css/button/button.min.css" rel="stylesheet">
+    <link href="css/navigation/navigation.min.css" rel="stylesheet">
+    
+    
+    <title>My New Hugo Site</title>
+</head>
+<body> <header role="banner" class="fr-header">
+      <div class="fr-header__body">
+        <div class="fr-container">
+          <div class="fr-header__body-row">
+            <div class="fr-header__brand fr-enlarge-link">
+              <div class="fr-header__brand-top">
+                <div class="fr-header__logo">
+                  <p class="fr-logo">
+                    République
+                    <br>Française
+                  </p>
+                </div>
 
-	<meta charset="UTF-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+                <div class="fr-header__navbar">
+                  <button id="button-menu" class="fr-btn--menu fr-btn" data-fr-opened="false" aria-controls="header-navigation" aria-haspopup="menu" title="Menu">
+                    Menu
+                  </button>
+                </div>
+              </div>
+              <div class="fr-header__service">
+                <a href="/" title="Accueil - Plan d'action logiciels libres et communs numériques - Direction interministérielle du numérique">
+                  <p class="fr-header__service-title">Plan d'action logiciels libres et communs numériques</p>
+                </a>
+                <p class="fr-header__service-tagline">Recourir et contribuer aux logiciels libres et aux communs numériques</p>
+              </div>
+            </div>
+            <div class="fr-header__tools">
+              <div class="fr-header__tools-links">
+                <ul class="fr-links-group">
+                  <li>
+                    <a class="fr-link fr-fi-mail-line" href="/contacts">Contacts</a>
+                  </li>
+                  <li>
+                    <a class="fr-link fr-fi-mail-line fr-share__link--twitter" href="https://twitter.com/codegouvfr">@codegouvfr</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
 
-	<title>Le PonT</title>
+      <div class="fr-header__menu fr-modal" id="header-navigation" aria-labelledby="button-menu">
+        <div class="fr-container">
+          <button class="fr-link--close fr-link" aria-controls="header-navigation">Fermer</button>
+          <div class="fr-header__menu-links"></div>
+          <nav class="fr-nav" id="navigation-832" role="navigation" aria-label="Menu principal">
+            <ul class="fr-nav__list">
+                <li class="fr-nav__item fr-nav__item--active">
+                  <a class="fr-nav__link" href="/" target="_self" aria-current="page">Accueil</a>
+                </li>
+                <li class="fr-nav__item">
+                  <a class="fr-nav__link" href="/utiliser/" target="_self" >Utiliser</a>
+                </li>
+                <li class="fr-nav__item">
+                  <a class="fr-nav__link" href="/publier/" target="_self" >Publier</a>
+                </li>
+                <li class="fr-nav__item">
+                  <a class="fr-nav__link" href="/mobiliser/" target="_self" >Mobiliser</a>
+                </li>
+                <li class="fr-nav__item">
+                  <a class="fr-nav__link" href="/communs/" target="_self" >Communs</a>
+                </li>
+                <li class="fr-nav__item">
+                  <a class="fr-nav__link" href="/guides/" target="_self" >Guides</a>
+                </li>
+                <li class="fr-nav__item">
+                  <a class="fr-nav__link" href="/a-propos/" target="_self" >À propos</a>
+                </li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+<div id="content">
 
-	<link rel="stylesheet" href="/css/style.css" type="text/css" media="all" />
-
-	<link rel="alternate" type="application/rss+xml" href="https://filo31410.github.io/testhugo.github.io/index.xml" title="Le PonT" />
-	</head>
-
-<body>
-
-<header class="site-header">
-  <nav class="site-nav">
-    <a class="logo" href="https://filo31410.github.io/testhugo.github.io/">
-      Le PonT
-    </a>
-    <ul class="main-menu">
-      
-      <li>
-       <a href="/testhugo.github.io/posts">Posts</a>
-      </li>
-      
-      <li>
-       <a href="/testhugo.github.io/about">About</a>
-      </li>
-      
-      <li>
-       <a href="/testhugo.github.io/bear/">Bear</a>
-      </li>
-      
-      <li>
-       <a href="/testhugo.github.io/hugo/">Hugo</a>
-      </li>
-      
-      <li>
-       <a href="/testhugo.github.io/test/">Test</a>
-      </li>
-      
-    </ul>
-  </nav>
-</header>
+  <h1 class="title">My New Hugo Site</h1>
 
 
-<main class="content">
-
-
-<h1 id="a-match-made-in-heaven">A match made in heaven</h1>
-<p>There is a website obesity crisis. Bloated websites full of scripts, ads, and trackers are slowing your readers down every time they try to read your well-crafted content.</p>
-<p>Hugo Bear Blog is all you need to build a fantastic and optimized site or blog. It works perfectly on <strong>any</strong> viewing device. All you need to focus on is writing good content.</p>
-<p><a href="https://bearblog.dev/">Go to the original bear blog</a>.</p>
-<hr>
-<p>What happens when you combine the worlds&rsquo; fastest, most lightweight static site generator with a design theme built to provide you with free, no-nonsense, super-fast blogging capabilities?</p>
-<p><strong>Use this theme, and find out!</strong></p>
-<p>Made with 💟 by <a href="https://www.janraasch.com">Jan Raasch</a>.</p>
-<hr>
-<p>Simply publish content online, grow an audience, and keep your pages tiny, fast, and <strong>optimized for search engines</strong>.</p>
-<p>Each page is ~5kb, and you can <strong>host your blog yourself</strong>.</p>
-
-
-</main>
-	
-<footer>
-	<p>&copy;2022 Le PonT</p>
-</footer>
-
+        </div>    <script src="/js/dsfr.module.min.js"></script>
+    <script type="text/javascript" nomodule href="js/legacy/legacy.nomodule.min.js" ></script>
+    <script type="module" href="js/core/core.module.min.js" ></script>
+    <script type="text/javascript" nomodule href="js/core/core.nomodule.min.js" ></script>
+    <script type="module" href="js/navigation/navigation.module.min.js" ></script>
+    <script type="text/javascript" nomodule href="js/navigation/navigation.nomodule.min.js" ></script>
+    
+    
+    <p class="footer text-center">Copyright (c) 2022 Filo</p>
 </body>
 </html>
-
