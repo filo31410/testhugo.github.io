@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on Le Pont</title>
-    <link>https://filo31410.github.io/testhugo.github.io/services/</link>
+    <link>/services/</link>
     <description>Recent content in Services on Le Pont</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 11 Apr 2022 16:42:36 +0200</lastBuildDate><atom:link href="https://filo31410.github.io/testhugo.github.io/services/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <lastBuildDate>Tue, 12 Apr 2022 16:39:55 +0200</lastBuildDate><atom:link href="/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Conception De Ressources Numeriques</title>
-      <link>https://filo31410.github.io/testhugo.github.io/services/conception-de-ressources-numeriques/</link>
+      <link>/services/conception-de-ressources-numeriques/</link>
       <pubDate>Mon, 11 Apr 2022 16:42:36 +0200</pubDate>
       
-      <guid>https://filo31410.github.io/testhugo.github.io/services/conception-de-ressources-numeriques/</guid>
+      <guid>/services/conception-de-ressources-numeriques/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accompagnement Au Changement</title>
-      <link>https://filo31410.github.io/testhugo.github.io/services/accompagnement-au-changement/</link>
+      <link>/services/accompagnement-au-changement/</link>
       <pubDate>Mon, 11 Apr 2022 16:42:13 +0200</pubDate>
       
-      <guid>https://filo31410.github.io/testhugo.github.io/services/accompagnement-au-changement/</guid>
+      <guid>/services/accompagnement-au-changement/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ingenierie</title>
-      <link>https://filo31410.github.io/testhugo.github.io/services/ingenierie/</link>
+      <link>/services/ingenierie/</link>
       <pubDate>Mon, 11 Apr 2022 16:41:58 +0200</pubDate>
       
-      <guid>https://filo31410.github.io/testhugo.github.io/services/ingenierie/</guid>
+      <guid>/services/ingenierie/</guid>
       <description></description>
     </item>
     

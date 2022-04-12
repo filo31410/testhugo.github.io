@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plateformes on Le Pont</title>
+    <link>/plateformes/</link>
+    <description>Recent content in Plateformes on Le Pont</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 12 Apr 2022 18:19:48 +0200</lastBuildDate><atom:link href="/plateformes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Temp</title>
+      <link>/plateformes/temp/</link>
+      <pubDate>Tue, 12 Apr 2022 00:07:47 +0200</pubDate>
+      
+      <guid>/plateformes/temp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
