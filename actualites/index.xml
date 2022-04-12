@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Actualites on Le Pont</title>
-    <link>https://filo31410.github.io/actualites/</link>
+    <link>https://filo31410.github.io/testhugo.github.io/actualites/</link>
     <description>Recent content in Actualites on Le Pont</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 12 Apr 2022 23:59:37 +0200</lastBuildDate><atom:link href="https://filo31410.github.io/actualites/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Apr 2022 23:59:37 +0200</lastBuildDate><atom:link href="https://filo31410.github.io/testhugo.github.io/actualites/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Deuxieme Actu</title>
-      <link>https://filo31410.github.io/actualites/deuxieme-actu/</link>
+      <link>https://filo31410.github.io/testhugo.github.io/actualites/deuxieme-actu/</link>
       <pubDate>Mon, 11 Apr 2022 16:26:10 +0200</pubDate>
       
-      <guid>https://filo31410.github.io/actualites/deuxieme-actu/</guid>
+      <guid>https://filo31410.github.io/testhugo.github.io/actualites/deuxieme-actu/</guid>
       <description>test actu</description>
     </item>
     
     <item>
       <title>Nouveau site</title>
-      <link>https://filo31410.github.io/actualites/nouveau-site/</link>
+      <link>https://filo31410.github.io/testhugo.github.io/actualites/nouveau-site/</link>
       <pubDate>Mon, 11 Apr 2022 16:20:27 +0200</pubDate>
       
-      <guid>https://filo31410.github.io/actualites/nouveau-site/</guid>
+      <guid>https://filo31410.github.io/testhugo.github.io/actualites/nouveau-site/</guid>
       <description>aze</description>
     </item>
     
