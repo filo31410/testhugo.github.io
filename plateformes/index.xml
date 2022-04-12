@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Plateformes on Le Pont</title>
-    <link>https://filo31410.github.io/testhugo.github.io/plateformes/</link>
+    <link>https://filo31410.github.io/plateformes/</link>
     <description>Recent content in Plateformes on Le Pont</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 12 Apr 2022 18:19:48 +0200</lastBuildDate><atom:link href="https://filo31410.github.io/testhugo.github.io/plateformes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Apr 2022 18:19:48 +0200</lastBuildDate><atom:link href="https://filo31410.github.io/plateformes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Temp</title>
-      <link>https://filo31410.github.io/testhugo.github.io/plateformes/temp/</link>
+      <link>https://filo31410.github.io/plateformes/temp/</link>
       <pubDate>Tue, 12 Apr 2022 00:07:47 +0200</pubDate>
       
-      <guid>https://filo31410.github.io/testhugo.github.io/plateformes/temp/</guid>
+      <guid>https://filo31410.github.io/plateformes/temp/</guid>
       <description></description>
     </item>
     
