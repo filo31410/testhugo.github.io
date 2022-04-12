@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Accueil on Le Pont</title>
-    <link>/</link>
+    <link>https://filo31410.github.io/testhugo.github.io/</link>
     <description>Recent content in Accueil on Le Pont</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 12 Apr 2022 16:28:43 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Apr 2022 16:28:43 +0200</lastBuildDate><atom:link href="https://filo31410.github.io/testhugo.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>/test/</link>
+      <link>https://filo31410.github.io/testhugo.github.io/test/</link>
       <pubDate>Tue, 12 Apr 2022 23:47:42 +0200</pubDate>
       
-      <guid>/test/</guid>
+      <guid>https://filo31410.github.io/testhugo.github.io/test/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Temp</title>
-      <link>/plateformes/temp/</link>
+      <link>https://filo31410.github.io/testhugo.github.io/plateformes/temp/</link>
       <pubDate>Tue, 12 Apr 2022 00:07:47 +0200</pubDate>
       
-      <guid>/plateformes/temp/</guid>
+      <guid>https://filo31410.github.io/testhugo.github.io/plateformes/temp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conception De Ressources Numeriques</title>
-      <link>/services/conception-de-ressources-numeriques/</link>
+      <link>https://filo31410.github.io/testhugo.github.io/services/conception-de-ressources-numeriques/</link>
       <pubDate>Mon, 11 Apr 2022 16:42:36 +0200</pubDate>
       
-      <guid>/services/conception-de-ressources-numeriques/</guid>
+      <guid>https://filo31410.github.io/testhugo.github.io/services/conception-de-ressources-numeriques/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accompagnement Au Changement</title>
-      <link>/services/accompagnement-au-changement/</link>
+      <link>https://filo31410.github.io/testhugo.github.io/services/accompagnement-au-changement/</link>
       <pubDate>Mon, 11 Apr 2022 16:42:13 +0200</pubDate>
       
-      <guid>/services/accompagnement-au-changement/</guid>
+      <guid>https://filo31410.github.io/testhugo.github.io/services/accompagnement-au-changement/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ingenierie</title>
-      <link>/services/ingenierie/</link>
+      <link>https://filo31410.github.io/testhugo.github.io/services/ingenierie/</link>
       <pubDate>Mon, 11 Apr 2022 16:41:58 +0200</pubDate>
       
-      <guid>/services/ingenierie/</guid>
+      <guid>https://filo31410.github.io/testhugo.github.io/services/ingenierie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deuxieme Actu</title>
-      <link>/actualites/deuxieme-actu/</link>
+      <link>https://filo31410.github.io/testhugo.github.io/actualites/deuxieme-actu/</link>
       <pubDate>Mon, 11 Apr 2022 16:26:10 +0200</pubDate>
       
-      <guid>/actualites/deuxieme-actu/</guid>
+      <guid>https://filo31410.github.io/testhugo.github.io/actualites/deuxieme-actu/</guid>
       <description>test actu</description>
     </item>
     
     <item>
       <title>Nouveau site</title>
-      <link>/actualites/nouveau-site/</link>
+      <link>https://filo31410.github.io/testhugo.github.io/actualites/nouveau-site/</link>
       <pubDate>Mon, 11 Apr 2022 16:20:27 +0200</pubDate>
       
-      <guid>/actualites/nouveau-site/</guid>
+      <guid>https://filo31410.github.io/testhugo.github.io/actualites/nouveau-site/</guid>
       <description>aze</description>
     </item>
     
