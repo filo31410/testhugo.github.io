@@ -2,41 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://filo31410.github.io/testhugo.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2022-04-12T16:28:43+02:00</lastmod>
   </url><url>
-    <loc>https://filo31410.github.io/testhugo.github.io/services/</loc>
+    <loc>/services/</loc>
     <lastmod>2022-04-13T10:43:03+02:00</lastmod>
   </url><url>
-    <loc>https://filo31410.github.io/testhugo.github.io/plateformes/</loc>
+    <loc>/plateformes/</loc>
     <lastmod>2022-04-13T10:44:47+02:00</lastmod>
   </url><url>
-    <loc>https://filo31410.github.io/testhugo.github.io/actualites/</loc>
+    <loc>/actualites/</loc>
     <lastmod>2022-04-12T23:59:37+02:00</lastmod>
   </url><url>
-    <loc>https://filo31410.github.io/testhugo.github.io/donnes/</loc>
+    <loc>/contacts/</loc>
+    <lastmod>2022-04-13T15:13:20+02:00</lastmod>
+  </url><url>
+    <loc>/donnes/</loc>
     <lastmod>2022-04-13T01:37:46+02:00</lastmod>
   </url><url>
-    <loc>https://filo31410.github.io/testhugo.github.io/cookies/</loc>
+    <loc>/cookies/</loc>
     <lastmod>2022-04-13T00:21:39+02:00</lastmod>
   </url><url>
-    <loc>https://filo31410.github.io/testhugo.github.io/mentions/</loc>
+    <loc>/mentions/</loc>
     <lastmod>2022-04-13T00:17:00+02:00</lastmod>
   </url><url>
-    <loc>https://filo31410.github.io/testhugo.github.io/accessibilite/</loc>
+    <loc>/accessibilite/</loc>
     <lastmod>2022-04-13T00:16:13+02:00</lastmod>
   </url><url>
-    <loc>https://filo31410.github.io/testhugo.github.io/plan/</loc>
+    <loc>/plan/</loc>
     <lastmod>2022-04-13T00:14:48+02:00</lastmod>
   </url><url>
-    <loc>https://filo31410.github.io/testhugo.github.io/actualites/deuxieme-actu/</loc>
+    <loc>/actualites/deuxieme-actu/</loc>
     <lastmod>2022-04-11T16:26:10+02:00</lastmod>
   </url><url>
-    <loc>https://filo31410.github.io/testhugo.github.io/actualites/nouveau-site/</loc>
+    <loc>/actualites/nouveau-site/</loc>
     <lastmod>2022-04-11T16:20:27+02:00</lastmod>
   </url><url>
-    <loc>https://filo31410.github.io/testhugo.github.io/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://filo31410.github.io/testhugo.github.io/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>

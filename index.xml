@@ -2,89 +2,106 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Accueil on Le Pont</title>
-    <link>https://filo31410.github.io/testhugo.github.io/</link>
+    <link>/</link>
     <description>Recent content in Accueil on Le Pont</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 12 Apr 2022 16:28:43 +0200</lastBuildDate><atom:link href="https://filo31410.github.io/testhugo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Apr 2022 16:28:43 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Services</title>
-      <link>https://filo31410.github.io/testhugo.github.io/services/</link>
+      <link>/services/</link>
       <pubDate>Wed, 13 Apr 2022 10:43:03 +0200</pubDate>
       
-      <guid>https://filo31410.github.io/testhugo.github.io/services/</guid>
-      <description></description>
+      <guid>/services/</guid>
+      <description>Accordéon Nouveau ! (Label badge)
+ Intitulé accordéon  Contenu  Lorem ipsum dolor sit amet, consectetur adipiscing, link test incididunt, ut labore et dolore magna aliqua. Vitae sapien pellentesque habitant morbi tristique senectus et. Diam maecenas sed enim ut. Accumsan lacus vel facilisis volutpat est. Ut aliquam purus sit amet luctus. Lorem ipsum dolor sit amet consectetur adipiscing elit ut.
+Lorem ipsum dolor sit amet, consectetur adipiscing, link test incididunt, ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Plateformes</title>
-      <link>https://filo31410.github.io/testhugo.github.io/plateformes/</link>
+      <link>/plateformes/</link>
       <pubDate>Wed, 13 Apr 2022 10:44:47 +0200</pubDate>
       
-      <guid>https://filo31410.github.io/testhugo.github.io/plateformes/</guid>
+      <guid>/plateformes/</guid>
+      <description>Onglets&#34; Label Tab 1  Label Tab 2  Label Tab 2   Contenu 1
+ Contenu 2
+ Contenu 3
+   tuiles verticales  Titre MD bold  Lorem [...] elit ut.
+    Titre M bold  Lorem [...] elit ut.
+    Titre M bold  Lorem [...] elit ut.
+    Titre M bold  Lorem [.</description>
+    </item>
+    
+    <item>
+      <title>Contacts</title>
+      <link>/contacts/</link>
+      <pubDate>Wed, 13 Apr 2022 15:13:20 +0200</pubDate>
+      
+      <guid>/contacts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Donnes</title>
-      <link>https://filo31410.github.io/testhugo.github.io/donnes/</link>
+      <link>/donnes/</link>
       <pubDate>Wed, 13 Apr 2022 01:37:46 +0200</pubDate>
       
-      <guid>https://filo31410.github.io/testhugo.github.io/donnes/</guid>
+      <guid>/donnes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cookies</title>
-      <link>https://filo31410.github.io/testhugo.github.io/cookies/</link>
+      <link>/cookies/</link>
       <pubDate>Wed, 13 Apr 2022 00:21:39 +0200</pubDate>
       
-      <guid>https://filo31410.github.io/testhugo.github.io/cookies/</guid>
+      <guid>/cookies/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mentions</title>
-      <link>https://filo31410.github.io/testhugo.github.io/mentions/</link>
+      <link>/mentions/</link>
       <pubDate>Wed, 13 Apr 2022 00:17:00 +0200</pubDate>
       
-      <guid>https://filo31410.github.io/testhugo.github.io/mentions/</guid>
+      <guid>/mentions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accessibilite</title>
-      <link>https://filo31410.github.io/testhugo.github.io/accessibilite/</link>
+      <link>/accessibilite/</link>
       <pubDate>Wed, 13 Apr 2022 00:16:13 +0200</pubDate>
       
-      <guid>https://filo31410.github.io/testhugo.github.io/accessibilite/</guid>
+      <guid>/accessibilite/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Plan</title>
-      <link>https://filo31410.github.io/testhugo.github.io/plan/</link>
+      <link>/plan/</link>
       <pubDate>Wed, 13 Apr 2022 00:14:48 +0200</pubDate>
       
-      <guid>https://filo31410.github.io/testhugo.github.io/plan/</guid>
+      <guid>/plan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deuxieme Actu</title>
-      <link>https://filo31410.github.io/testhugo.github.io/actualites/deuxieme-actu/</link>
+      <link>/actualites/deuxieme-actu/</link>
       <pubDate>Mon, 11 Apr 2022 16:26:10 +0200</pubDate>
       
-      <guid>https://filo31410.github.io/testhugo.github.io/actualites/deuxieme-actu/</guid>
+      <guid>/actualites/deuxieme-actu/</guid>
       <description>test actu</description>
     </item>
     
     <item>
       <title>Nouveau site</title>
-      <link>https://filo31410.github.io/testhugo.github.io/actualites/nouveau-site/</link>
+      <link>/actualites/nouveau-site/</link>
       <pubDate>Mon, 11 Apr 2022 16:20:27 +0200</pubDate>
       
-      <guid>https://filo31410.github.io/testhugo.github.io/actualites/nouveau-site/</guid>
+      <guid>/actualites/nouveau-site/</guid>
       <description>aze</description>
     </item>
     
